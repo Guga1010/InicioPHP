@@ -4,7 +4,6 @@ $categorias = [];
 $categorias[] = 'infantil';
 $categorias[] = 'adolescente';
 $categorias[] = 'adulto';
-$categorias[] = 'idoso';
 //print_r($categorias); --> Imprime na tela a variável categorias
 
 $nome = 'Eduardo';
