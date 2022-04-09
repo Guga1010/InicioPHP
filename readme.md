@@ -1,0 +1,2 @@
+# Inicio no PHP
+Esse projeto é onde eu dou o primeiro passo no PHP. Contendo um programa de verificação de idade e depois mostrar a sua categoria de acordo com a idade, durante uma competição de natação. 
